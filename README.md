@@ -4,7 +4,7 @@ PDF is a widely used file format for distribution, publishing and archiving docu
 **Opait Viewer** is a lightweight program with download size of approximately 3 MB. It can be used standalone or integrated into other Windows programs to provide native PDF viewing functionality.
 
 ## Download
-Opait Viewer is packaged as a Windows MSI installation for .NET version 4.0 or higher and no other dependencies.
+Opait Viewer is packaged as a Windows MSI installation for .NET version 4.0 or higher with no other dependencies.
 
 https://opait.com/Viewer
 
